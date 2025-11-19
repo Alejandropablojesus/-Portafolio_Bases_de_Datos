@@ -35,6 +35,6 @@ Python | Pandas | NumPy | Matplotlib | Seaborn | Google Colab | Git & GitHub
 
 ## Contacto
 - LinkedIn: [linkedin.com/in/JESUS AGUIRRE(https://linkedin.com/in/jesus-aguirre-)  
-- Email: jesupablo1003@gmail.com
+- Email: jesuspablo1003@gmail.com
 
 ¡Estoy abierto a nuevas oportunidades!  
