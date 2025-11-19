@@ -22,4 +22,4 @@ Dataset oficial: **3.066.766 registros** de Yellow Taxi (NYC TLC)
 
 ## Autor
 Alejandro – Buscando rol como Analista de Datos  
-LinkedIn: [linkedin.com/in/TU-USUARIO](https://linkedin.com/in/TU-USUARIO)
+LinkedIn:  [linkedin.com/in/JESUS AGUIRRE(https://linkedin.com/in/jesus-aguirre-)
